@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, programming and user experience design
 - 🌱 I’m currently learning HTML, CSS, JavaScript and user experience design
 - 💞️ I’m looking to collaborate on projects for begginers
-- 📫 How to reach me: :e-mail: igorbalieiro88@gmail.com :phone: +5596981384257 (WhatsApp and Telegram)
+- 📫 How to reach me: :e-mail: igorbalieiro88@gmail.com
 - :rainbow: Welcome to my profile
 
 <!---
