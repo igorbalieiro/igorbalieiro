@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igorbalieiro
-- 👀 I’m interested in data data analysis and IT project management.
+- 👀 I’m interested in data analysis and IT project management.
 - 🌱 I’m currently learning Statistics, Python and SQL.
 - 💞️ I’m looking to collaborate on projects for begginers
 - 📫 How to reach me: :e-mail: igorbalieiro88@gmail.com
