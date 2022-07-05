@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @igorbalieiro
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning C and Python.
-- 💞️ I’m looking to collaborate on projects for begginers.
-- 📫 How to reach me: :e-mail: igorbalieiro88@gmail.com.
-- :rainbow: Welcome to my profile!
+- 👋 Olá, Eu sou o @igorbalieiro
+- 👀 Estou iniciando no mundo dos dados.
+- 🌱 Eu estou atualmente estudando Python e PostgreSQL.
+- 📫 Fique a vontade para me mandar um e-mail :e-mail: igorbalieiro88@gmail.com.
+- :rainbow: Boas-vindas ao meu perfil!
 
 <!---
 igorbalieiro/igorbalieiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
