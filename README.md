@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o @igorbalieiro
 - 👀 Estou iniciando no mundo dos dados.
-- 🌱 Eu estou atualmente estudando Python e PostgreSQL.
+- 🌱 Eu estou atualmente estudando Desenvolvimento Web.
 - 📫 Fique a vontade para me mandar um e-mail :e-mail: igorbalieiro88@gmail.com.
 - :rainbow: Boas-vindas ao meu perfil!
 
