@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o @igorbalieiro
-- 👀 Estou iniciando em programação.
-- 🌱 Eu estou atualmente estudando Desenvolvimento Fullstack.
+- 👀 Sou iniciante em programação.
+- 🌱 Estou atualmente estudando Python e SQL para análise de dados.
 - 📫 Fique a vontade para me mandar um e-mail :e-mail: igorbalieiro88@gmail.com.
 - :rainbow: Boas-vindas ao meu perfil!
 
