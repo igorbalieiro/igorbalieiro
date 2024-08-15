@@ -1,6 +1,5 @@
 - 👋 Olá, Eu sou o @igorbalieiro
-- 👀 Sou iniciante em programação.
-- 🌱 Estou atualmente estudando Python e SQL para análise de dados.
+- 👀 Sou Technical Writer Jr na Neos Tecnologia.
 - 📫 Fique a vontade para me mandar um e-mail :e-mail: igorbalieiro88@gmail.com.
 - :rainbow: Boas-vindas ao meu perfil!
 
